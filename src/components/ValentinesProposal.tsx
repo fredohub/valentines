@@ -132,8 +132,8 @@ export default function ValentinesProposal() {
             <h2
               className={`text-5xl font-semibold mb-8 ${playfairDisplay.className}`}
             >
-              I'm Sorry I Have A Tournament Today Can't Do More For You. 
-              Do You Promise That You'll Have A Great Birthday?
+                I'm Sorry I Have A Tournament Today And Can't Do More For You. 
+                Do You Promise That You'll Have A Great Birthday?
             </h2>
             <Image
               src="/sad_hamster.png"
