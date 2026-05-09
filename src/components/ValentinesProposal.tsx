@@ -103,7 +103,7 @@ export default function ValentinesProposal() {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
           >
-            I have a surprise for you!
+            Happy Birthday My Princess!
           </motion.h2>
         )}
         {step === 2 && (
@@ -132,7 +132,8 @@ export default function ValentinesProposal() {
             <h2
               className={`text-5xl font-semibold mb-8 ${playfairDisplay.className}`}
             >
-              Will you be my Valentine?
+              I'm Sorry I Have A Tournament Today Can't Do More For You. 
+              Do You Promise That You'll Have A Great Birthday?
             </h2>
             <Image
               src="/sad_hamster.png"
@@ -176,7 +177,7 @@ export default function ValentinesProposal() {
             exit={{ opacity: 0 }}
           >
             Thank you for accepting, I love you! 💕
-            <p className="text-sm mt-4">For more information, write me!!! 💌</p>
+            <p className="text-sm mt-4"></p>
             <Image
               src="/hamster_jumping.gif"
               alt="Hamster Feliz"
